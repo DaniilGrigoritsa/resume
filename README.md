@@ -1,4 +1,4 @@
-#Resume
+# Resume
 
 This is my resume of a blockchain, solidity and JavaScript developer created with react
 
